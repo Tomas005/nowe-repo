@@ -28,79 +28,87 @@ https://tomas005.github.io/goit-markup-hw-01/
       <a href="info@devstudio.com">info@devstudio.com</a>
       <a href="tel:+48111111111">+48 111 111 111</a>
 
-      <h1>EFEKTYWNE ROZWIĄZANIA DLA WASZEGO BIZNESU</h1>
+</header>
+
+<main>
+    <h1>EFEKTYWNE ROZWIĄZANIA DLA WASZEGO BIZNESU</h1>
       <button type="button">Zamów usługę</button>
-    </header>
-    <main>
-      <section>
+<section>
         <ul>
 
-      <li>  <h4>LOREM IPSUM</h4>
+<li><h4>LOREM IPSUM</h4>
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
           sem. Sed non sodales dui. Interdum et malesuada</li>
 
-        <li><h4>LOREM IPSUM</h4>
+<li><h4>LOREM IPSUM</h4>
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
           sem. Sed non sodales dui. Interdum et malesuada
-       </li>
-      <li> <h4>LOREM IPSUM</h4>
+
+</li>
+
+<li><h4>LOREM IPSUM</h4>
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
           sem. Sed non sodales dui. Interdum et malesuada
-       </li>
-      <li>  <h4>LOREM IPSUM</h4>
+
+</li>
+
+<li><h4>LOREM IPSUM</h4>
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel arcu
           sem. Sed non sodales dui. Interdum et malesuada
-       </li>
-    </ul>
-      </section>
-      <section>
-        <h2>Czym się zajmujemy</h2>
-      <img alt="A person is writing a code on the computer" src="images/img.jpg" width="370" height="294"/>
-        <img alt="Picture of two computers" src="images/img (1).jpg" width="370" height="294"/>
-        <img alt="Woman is holding an ipad" src="images/img (2).jpg" width="370" height="294"/>
 
-      </section>
-      <section>
+</li>
+</ul>
+</section>
+
+<section>
+             <h2>Czym się zajmujemy</h2>
+<img  src="images/img.jpg" alt="A person is writing a code on the computer" width="370" height="294"/>
+        <img  src="images/img (1).jpg" alt="Picture of two computers" width="370" height="294"/>
+        <img  src="images/img (2).jpg" alt="Woman is holding an ipad" width="370" height="294"/>
+
+</section>
+
+<section>
 
 <h2>Nasz zespół</h2>
 
-    <figure>
+<figure>
 
-        <img alt="John Doe's photo" src="images/img (33).jpg" widht="270" height="260"/>
+ <img alt="John Doe's photo" src="images/img (33).jpg" widht="270" height="260"/>
 
-    <figcaption>
+<flagcaption>
       <h4>John Doe</h4>
       <span>Product Designer</span>
-    </figcaption>
+    </flagcaption>
 
-    </figure>
-    <figure>
+</figure>
 
-<img alt="John Doe's photo" src="images/img (22).jpg" width="270" height="260"/>
-<flagcaptiom>
+<figure>
+<img  src="images/img (22).jpg" alt="John Doe's photo" width="270" height="260"/>
+<flagcaption>
 <h4>John Doe</h4>
 <span>Frontend Developer</span>
-</flagcaptiom>
+</flagcaption>
 
-    </figure>
+</figure>
 
-    <figure>
+<figure>
 
-<img alt="John Doe's photo" src="images/img (11).jpg" width="270" height="260"/>
+<img  src="images/img (11).jpg" alt="John Doe's photo" width="270" height="260"/>
 <flagcaption>
     <h4>John Doe</h4>
     <span>Marketing</span>
 </flagcaption>
 
-    </figure>
+</figure>
 
 <figure>
 
-<img alt="John Doe's photo" src="images/img4.jpg" witdth="270" height="260"/>
+<img  src="images/img4.jpg" alt="John Doe's photo" witdth="270" height="260"/>
 <flagcaption>
 
 <h4>John Doe</h4>
@@ -109,7 +117,7 @@ https://tomas005.github.io/goit-markup-hw-01/
 </flagcaption>
 </figure>
 
-      </section>
+</section>
     </main>
     <footer>
       <a href="webstudio.com"><span>Web</span>Studio</a>
