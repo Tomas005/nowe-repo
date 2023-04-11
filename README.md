@@ -1,1 +1,1 @@
-https://github.com/Tomas005/goit-markup-hw-01.git
+https://tomas005.github.io/goit-markup-hw-01/
